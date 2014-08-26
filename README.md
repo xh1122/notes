@@ -1,6 +1,3 @@
 notes
 =====
-
-my notes
-
-my test notes
+#初始化说明文件
